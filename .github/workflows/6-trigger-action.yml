@@ -39,10 +39,6 @@ jobs:
         with:
           fetch-depth: 0 # Let's get all the branches.
 
-      - name: Dump GitHub comment context
-        id: github_comment_step
-        run: echo '${{ toJSON(github.event) }}'
-
       # Update README from step 6 to step X.
       - name: Update to step X
         if: contains(github.event, ${{ env.EXPECTED_METADATA }})
