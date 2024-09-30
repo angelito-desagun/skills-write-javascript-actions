@@ -15,50 +15,39 @@ _Write your own GitHub JavaScript Action and automate customized tasks unique to
 </header>
 
 <!--
-  <<< Author notes: Course start >>>
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
+  <<< Author notes: Finish >>>
+  Review what we learned, ask for feedback, provide next steps.
 -->
 
-## Welcome
+## Finish
 
-Write your own GitHub JavaScript Action and automate customized tasks unique to your workflow.
+<img src=https://octodex.github.com/images/poptocat_v2.png alt=celebrate width=300 align=right>
 
-- **Who is this for**: Developers, GitHub users, users new to Git, students, managers, and for teams.
-- **What you'll learn**: How to consume actions within a workflow file, create custom JavaScript based actions and publish your newly created action to the marketplace.
-- **Prerequisites**: Before you start, you should be familiar with GitHub, GitHub Actions, and Continuous Integration with GitHub Actions.
-- **How long**: This course takes about 1 to 2 hours to be completed.
+### Congratulations, you've completed this course!
 
-In this course, you will:
+In this course, you've learned a lot about developing custom actions using JavaScript and Actions Toolkit.
 
-1. Initialize a JavaScript project
-2. Configure an action
-3. Create a metadata file
-4. Create JavaScript files
-5. Add actions to workflow file
-6. Trigger action
+## Publishing your actions
 
-### How to start this course
+Publishing your actions is a great way to help others in your team and across the GitHub community. Although actions do not need to be published to be consumed, by adding them to the marketplace you make them easier to find.
 
-<!-- For start course, run in JavaScript:
-'https://github.com/new?' + new URLSearchParams({
-  template_owner: 'skills',
-  template_name: 'write-javascript-actions',
-  owner: '@me',
-  name: 'skills-write-javascript-actions',
-  description: 'My clone repository',
-  visibility: 'public',
-}).toString()
--->
+Some notable actions you will find on the marketplace are:
 
-[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=skills&template_name=write-javascript-actions&owner=%40me&name=skills-write-javascript-actions&description=My+clone+repository&visibility=public)
+- [Actions for Discord](https://github.com/marketplace/actions/actions-for-discord)
+- [GitHub Action for Slack](https://github.com/marketplace/actions/github-action-for-slack)
+- [Jekyll action](https://github.com/marketplace/actions/jekyll-action)
+- [Run Jest](https://github.com/marketplace/actions/run-jest)
 
-1. Right-click **Start course** and open the link in a new tab.
-2. In the new tab, most of the prompts will automatically fill in for you.
-   - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-   - Scroll down and click the **Create repository** button at the bottom of the form.
-3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
+And that just scratches the surface of the 1600+ and counting actions you will find on the marketplace
+
+Follow [this guide](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/publishing-actions-in-github-marketplace#publishing-an-action) to learn how to publish your actions to the GitHub Marketplace
+
+### What's next?
+
+- [Take another GitHub Skills course](https://github.com/githubskills).
+- We'd love to hear what you thought of this course in our [discussion board](https://github.com/orgs/skills/discussions/categories/write-javascript-actions).
+- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
+- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
 
 <footer>
 
